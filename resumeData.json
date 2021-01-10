@@ -1,0 +1,123 @@
+{
+  "main": {
+    "name": "Shahab Ramzan",
+    "occupation": "",
+    "description": "Full Stack Developer at Suavis Technologies",
+    "image": "port3.png",
+    "bio": "My name is Shahab, I'm a Full Stack ReactJS Developer. Currently I'm working at Suavis Technologies.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "shahabm298@gmail.com",
+    "phone": "+923007758872",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "Lahore",
+      "state": "Punjab",
+      "zip": "5400"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1Kln5MzrWLIBzcF3dYo9Bycax5YPRb2-X/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/shab.malik.1806/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shahab-ramzan-23b9a6157/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/shahab7758",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Highly motivated software engineer, with expertise in:",
+    "education": [
+      {
+        "school": "Lahore Garrison University - Lahore",
+        "degree": "Master's Degree, Computer Science",
+        "graduated": "March 2020",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Frontend Developer",
+        "title": "ReactJS/NextJS",
+        "years": "March 2020 - Present",
+        "description": "Create and test applications for websites. Collaborate. Present design specs. Work with graphics and other designers. Troubleshoot website problems. Maintain and update websites. Monitor website traffic."
+      },
+      {
+        "company": "Javascript Developer",
+        "title": "(Internee)",
+        "years": "Feb 2020 - Feb 2020",
+        "description": "Working on front-end widgets. Learning how to use tools like GitHub, Ubuntu, VScode Knowledge of JavaScript frameworks to create rich interactive content Collaborate with the team to develop front-end web application using HTML/CSS and JavaScript and ReactJs and ReduxJs"
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "NextJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+     
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      
+      {
+        "title": "Plexuss Prime",
+        "category": "Plexuss built with ReactJS",
+        "image": "plexuss.png",
+        "url": "https://plexuss.com/"
+      },
+      {
+        "title": "Bayan",
+        "category": "Bayan built with NextJS",
+        "image": "bayan.png",
+        "url": "https://www.bayanclaremont.org/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "When somebody begins a sentence with “IT WOULD BE NICE IF..” the right thing to do is to wait politely for the speaker to finish. No project ever gets around to the it-would-be-nice features: or if they do, they regret it. Wait for sentences that begin “WE HAVE TO..” and pay close attention, and see if you agree.",
+        "user": " Tom Van Vleck"
+      },
+      {
+        "text": "Why do we never have time to do it right, but always have time to DO IT OVER?",
+        "user": "Anonymous"
+      }
+    ]
+  }
+}
